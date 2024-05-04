@@ -13,8 +13,10 @@ VTC (Video Time Calculator) is a simple script designed to calculate the total p
 
 3. **Navigate to Video Folder**: Open the folder containing your videos. You can navigate to this folder using File Explorer or cmd.
 4. **Run Script**: In the address bar of the File Explorer window, type `vtc.bat` and press Enter.
-![image](https://github.com/Anzar-M/vtc/assets/156089774/ddb69fa9-c014-40f5-b0cd-0d469be58eb4)
+5. 
+![vtc](https://github.com/Anzar-M/vtc/assets/156089774/b80a2886-498e-4544-807a-2e2969060c7a)
 
-5. **Wait for Calculation**: A Command Prompt window will appear, initiating the calculation process. Please wait a few seconds for VTC to scan through the videos and calculate the total playback time.
 
-6. **View Results**: Once the calculation is complete, the total video time, including videos within subfolders, will be displayed in the format `HH:MM:SS`.
+7. **Wait for Calculation**: A Command Prompt window will appear, initiating the calculation process. Please wait a few seconds for VTC to scan through the videos and calculate the total playback time.
+
+8. **View Results**: Once the calculation is complete, the total video time, including videos within subfolders, will be displayed in the format `HH:MM:SS`.
