@@ -4,10 +4,11 @@
 ## VTC (Video Time Calculator)
 
 VTC (Video Time Calculator) is a simple script designed to calculate the total playback time of videos within a specified folder and its subfolders. Follow the steps below to install and use VTC:
+***
 ### Prerequisite
 ffmpeg
 ``winget install ffmpeg``
-
+***
 ### Installation Steps:
 
 1. **Download**: Download the `vtc.bat` script from the ["Download Raw file"](https://github.com/Anzar-M/vtc/blob/main/vtc.bat).
